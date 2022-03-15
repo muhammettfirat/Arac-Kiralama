@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.frmAnaSayfa.resources
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.frmMüsteriEkle.resources
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.frmMüsteriListele.resources
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.frmAracKayıt.resources
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.frmAracListele.resources
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.frmSözlesme.resources
+C:\Users\user\source\repos\Kutuphane_Otomasyonu\AracKiralama\obj\Debug\AracKiralama.frmSatis.resources
